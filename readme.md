@@ -1,8 +1,8 @@
-Steps to configure:
+##Steps to configure:
 
-To run PHP server:
+###To run PHP server:
 php -S localhost:8080
 
-Composer:
-composer init
+###Composer:
+composer init<br>
 composer update
